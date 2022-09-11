@@ -9,5 +9,5 @@ The Encryption function to encrypt the string according to the morse code chart
 
 The Decryption function decrypt the string from morse to english.
 
-If you want to run and test this code:
+If you want to run and test this code
 make clone and then run this file in your sytem. 
